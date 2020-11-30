@@ -1,9 +1,4 @@
-# Jan Gassen ([0x4a616e](https://github.com/0x4a616e))
-
-## 📈 GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0x4a616e&theme=default&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4a616e&theme=default&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### Hi there 👋
 
 <!--
 **0x4a616e/0x4a616e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
